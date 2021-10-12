@@ -1,0 +1,2 @@
+<a role="menuitem" href="/ab/account-security/login" class="nav-item login-link d-none d-lg-block px-0 px-20" data-toggle="modal" data-target="#loginModal">Log In</a>
+<a role="menuitem" href="/ab/account-security/login" class="nav-item login-link d-none d-lg-block px-0 px-20" data-toggle="modal" data-target="#registerModal">Sign Up</a>
